@@ -1,0 +1,3 @@
+# Files you dont want to deploy
+
+node_modules
